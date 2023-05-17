@@ -1,16 +1,16 @@
-﻿body
+body
 .quote-container {
-  background-color: #FAF1F5;
+  background-color: #F6F3F9;
   border-radius: 4px;
-  padding: 110px;
+  padding: 55px;
   text-align: center;
 }
 
 .quote-text {
   font-size: 15px;
   margin-bottom: 10px;
-  font-family: "Roboto Slab", Times, serif;
-  font-weight: 300;
-  font-style: italic;
+  font-family: sans-serif;
+  font-weight: bold;
+  color: #9065B0;
 }
 
