@@ -1,4 +1,7 @@
-body
+body{
+    display: block;
+    margin: 0px;
+}
 .quote-container {
   background-color: #F6F3F9;
   border-radius: 4px;
